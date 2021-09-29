@@ -41,7 +41,7 @@ data:
         - needs-rebase
         repos:
         - emanueledemo/jx3-eks-vault
-      target_url: http://lighthouse-jx./merge/status
+      target_url: http://lighthouse-jx.52.213.246.176.nip.io/merge/status
 kind: ConfigMap
 metadata:
   creationTimestamp: null
